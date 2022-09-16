@@ -2,10 +2,6 @@
   .img_name {
     display: none;
   }
-  body {
-    background-color: #5c7cfa;
-  }
-
   * {
     margin: 0;
     box-sizing: border-box;
