@@ -2,9 +2,6 @@
   .img_name {
     display: none;
   }
-  body {
-    background-color: aquamarine;
-  }
   * {
     margin: 0;
     box-sizing: border-box;
